@@ -1,10 +1,3 @@
 a=int(input('Enter 1st number '))
 b=int(input('Enter 2nd mumber '))
-sum=a+b
-print('sum=',sum)
-difference=a-b
-print('difference=',difference)
-multiplication=a*b
-print('multiplication=',multiplication)
-division=a/b
-print('division=',division)3
+print('sum is =',a+b,'substration is =',a-b,'product is =',a*b,'division is =',a/b)
